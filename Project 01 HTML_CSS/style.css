@@ -1,0 +1,86 @@
+/* Body */
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  margin-left: 60px;
+  font-family: "Poppins", sans-serif;
+}
+
+/* Navigation bar */
+
+.navbar-container {
+  display: flex;
+  align-items: center;
+
+  justify-content: space-between;
+  height: 8rem;
+}
+.list {
+  margin-right: 30rem;
+  list-style-type: none;
+  width: 25rem;
+  font-weight: 400;
+  display: flex;
+  justify-content: space-between;
+  color: rgb(132, 130, 130);
+}
+.home{
+  color: rgb(16, 15, 15);
+}
+.list-item:hover {
+  color: rgb(21, 20, 20);
+}
+.logom {
+  margin-top: 23rem;
+  padding: 0;
+  margin: 0;
+  width: 80px;
+}
+
+/* Hero Section */
+
+.banner-container {
+  margin-top: 2rem;
+  margin-left: 10px;
+  display: flex;
+}
+.grow-list {
+  flex-grow: ;
+}
+.banner-container div img {
+  position: absolute;
+  top: 9.8rem;
+  right: 0;
+  width: 650px;
+}
+.heading-text {
+  font-size: 50px;
+  line-height: 1.2;
+  font-weight: 600;
+}
+
+.heading-text span {
+  color: #5855b3;
+}
+
+.description {
+  font-size: 13px;
+  color: #758283;
+  margin: 2rem 0;
+}
+.nav-button {
+  margin-right: 3rem;
+}
+.btn {
+  color: aliceblue;
+  padding: 0.7rem 0.9rem;
+  border-radius: 5px;
+  border: 0;
+  background-color: #5955b3;
+  font-size: 1rem;
+}
+.nav-botton {
+  padding: 1rem 1.5rem;
+}

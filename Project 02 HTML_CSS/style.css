@@ -1,0 +1,112 @@
+
+/* Body */
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: Montserrat;
+  width: auto;
+  height: 100vh;
+}
+
+/* Navigatio Bar */
+
+.navbar {
+  height: 4.7rem;
+
+  color: rgb(253, 254, 254);
+  background-color: rgb(18, 17, 17);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.list {
+  position: relative;
+  right: 22rem;
+  display: flex;
+  width: 25rem;
+  justify-content: space-between;
+}
+.list-item {
+  
+  list-style: none;
+  margin: 0px 22px;
+}
+.logo {
+  margin-left: 60px;
+  height: 30px;
+}
+.button-small {
+  margin-right: 60px;
+  padding: 10px 20px;
+  border-radius: 9px;
+  background-color: rgb(223, 39, 223);
+}
+.line {
+  margin-right: 290px;
+  height: 45px;
+  width: 1px;
+  background-color: rgb(248, 249, 250);
+}
+.list :first-child::after{
+
+  content:"";
+  border-width:0 2px 2px 0;
+  border: solid #ffffff;
+  display:inline-block;
+  padding: 3px;
+  transform:rotate(45deg);
+  margin-left:10px;
+
+
+}
+
+/* Hero Section */
+
+.hero {
+  height: 89.9vh;
+    color: aliceblue;
+  display: flex;
+  flex-direction: column;
+  justify-content: ;
+  align-items: center;
+  background-image: url(./assets/bg.png);
+  background-repeat: no-repeat;
+  background-size:1280px 89.4vh ;
+}
+.hero-heading {
+    color: aliceblue;
+    margin-top: 6rem;
+
+    font-size: 47px;
+    line-height: 55px;
+    margin-bottom:-9px ;
+
+}
+.hero{
+    line-height: 1rem;
+}
+.button-large{
+    color: aliceblue;
+    margin-top: 15px;
+    border: none;
+    border-radius: 22px;
+    padding: 12px 20px;
+    font-size: 14px;
+    font-family:Montserrat ;
+    background-color: rgb(247, 59, 241);
+}
+.hero-heading{
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+  height: 100px;
+  
+}
+div>.hero{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
