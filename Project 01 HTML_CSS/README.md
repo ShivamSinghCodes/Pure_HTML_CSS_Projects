@@ -10,7 +10,6 @@ Here's the Live Deployed Website ![Project 9](https://img.shields.io/badge/Proje
 
 ## What I learned from this Project?
 
-## What I Learned
 - how to use **Icons**.
 -  **What is Hero Section and it's Importance**.
 - Learned about **Box Shadow**.
