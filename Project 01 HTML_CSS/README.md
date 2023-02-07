@@ -6,7 +6,7 @@ Here's the Live Deployed Website ![Project 9](https://img.shields.io/badge/Proje
 
 ## [DEPLOYED WEBSITE LINK](https://bityl.co/H2Fg)
 
-![Completed Website]()
+![Screenshot](https://raw.githubusercontent.com/ShivamSinghCodes/Pure_HTML_CSS_Projects/main/Project%2001%20HTML_CSS/assets/Screenshot%20(96).png)
 
 ## What I learned from this Project?
 
