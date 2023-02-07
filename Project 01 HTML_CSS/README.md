@@ -2,9 +2,9 @@
 # Project 1 - HTML ![](./readmeImages/html-5.png) and CSS ![](./readmeImages/css-3.png)
 
 
-Here's the Live Deployed Website ![Project 9](https://img.shields.io/badge/Project-9-brightgreen)
+Here's the Live Deployed Website ![](https://img.shields.io/badge/%3C%3E-Deployed-green)
 
-## [DEPLOYED WEBSITE LINK](https://bityl.co/H2Fg)
+## [Live Link](https://bityl.co/H2Fg)
 
 ![Screenshot](https://raw.githubusercontent.com/ShivamSinghCodes/Pure_HTML_CSS_Projects/main/Project%2001%20HTML_CSS/assets/Screenshot%20(96).png)
 
